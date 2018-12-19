@@ -1,4 +1,4 @@
-# jenkins-docker-compose
+# Jenkins Docker Compose
 A simple docker-compose project for starting up a Jenkins instance.
 
 You will need docker-compose installed in your system.

@@ -10,3 +10,7 @@ docker-compose run
 ```
 
 Then, access Jenkins using the browser.
+
+- http://localhost:8080
+
+P.s: You will have to check jenkins logs in order to get the initial password. Use docker logs (container Id) for this.

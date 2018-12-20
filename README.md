@@ -1,4 +1,6 @@
-![](https://github.com/cleversonledur/jenkins-docker-compose/blob/master/images/jenkins.png =100x20)
+<img src="https://github.com/cleversonledur/jenkins-docker-compose/blob/master/images/jenkins.png" alt="drawing" width="100"/>
+
+#![](https://github.com/cleversonledur/jenkins-docker-compose/blob/master/images/jenkins.png =100x20)
 # Jenkins Docker Compose
 A simple docker-compose project for starting up a Jenkins instance.
 
